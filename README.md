@@ -18,11 +18,13 @@ Carbon Paper encrypts sender names and paste content with AEAD XChaCha20-Poly130
 
 | URL                                                    | Region  | Notes                                                                                            |
 | ------------------------------------------------------ | ------- | ------------------------------------------------------------------------------------------------ |
-| [paste.whatever.social](https://paste.whatever.social) | Germany | Operated by [Whatever Social](https://whatever.social) and [http.james](https://httpjames.space) |
+| [paste.v4nt.com](https://paste.v4nt.com) | N/A | Operated by [V4NT](https://paste.v4nt.com) and [Jeyso215](https://www.davidroker.co) |
 
 ## Deployment
 
-Refer to the wiki for more information.
+```
+docker-compose up -d --build
+```
 
 ## Developing
 
